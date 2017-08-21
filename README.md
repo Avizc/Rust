@@ -1,17 +1,22 @@
-## Synopsis
-I am learning Rust, see what I'm up to.
+# Avi's Adventure in Rustland
+
+I'm learning Rust (again), see what I'm up to.
 
 ## Motivation
-For two years I haven't coded. In high school my code was the xkcd burning bus example (http://xkcd.com/1695/).
-I'm now working on a new project where Rust may be useful. Hence why I've decided to learn it.
 
-This is where I am getting all of my information from:
-https://doc.rust-lang.org/
+I decided to learn Rust a few years ago but in the end didn't completely follow through. Since then I've kept up with news on Rust and the community but didn't attempt to go back into it.
 
-## Who is driving the burning bus here
-Avi Z.
+So here I am doing that now.
 
-## Contact me
-Keybase: @av1 (https://keybase.io/av1)
+My primary resource this time will be the second edition of [The Rust Programming Language](https://doc.rust-lang.org/book/second-edition/).
 
-Twitter: @_llzes (https://twitter.com/_llzes)
+## Contact
+
+Questions, comments, suggestions, feedback, or if you'd like to chat about really anything feel free to use the below methods of contacting me. They really are the fastest ways to reach me.
+
+* Keybase: @av1 (https://keybase.io/av1)
+* Twitter: @_llzes (https://twitter.com/_llzes)
+
+## Additional info
+
+If you'd like to read my former README you can find it in my former_notes.
