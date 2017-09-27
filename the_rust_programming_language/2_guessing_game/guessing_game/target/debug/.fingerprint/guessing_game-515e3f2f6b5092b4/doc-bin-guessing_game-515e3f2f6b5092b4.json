@@ -1,0 +1,1 @@
+{"rustc":3199039062860962502,"features":"[]","target":13701379316648476528,"profile":12472537617123984595,"deps":[["rand v0.3.16",2243821346607007709],["rand v0.3.16",15042550770512969774]],"local":{"Precalculated":"1506549901.492036041s (/home/avi/Desktop/projects/Rust/the_rust_programming_language/2_guessing_game/guessing_game/src/main.rs)"},"rustflags":[]}
