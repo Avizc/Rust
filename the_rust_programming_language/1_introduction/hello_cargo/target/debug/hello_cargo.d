@@ -1,0 +1,1 @@
+/home/avi/Desktop/projects/Rust/the_rust_programming_language/1_introduction/hello_cargo/target/debug/hello_cargo: /home/avi/Desktop/projects/Rust/the_rust_programming_language/1_introduction/hello_cargo/src/main.rs
